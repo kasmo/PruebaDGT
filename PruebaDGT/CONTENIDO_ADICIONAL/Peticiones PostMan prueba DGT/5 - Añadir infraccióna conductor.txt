@@ -1,0 +1,18 @@
+URL: https://localhost:44320/api/InfraccionVehiculo/45885158C- POST
+
+
+JSON:
+{
+  "dniConductor": "45885158C",
+  "matricula": "6378DJL",
+  "idInfraccion": "2",
+  "fecha": "2020-01-23T12: 34: 56.123456789Z"
+}  
+
+Ó
+
+{
+  "matricula": "6378DJL",
+  "idInfraccion": "2",
+  "fecha": "2020-01-23T12: 34: 56.123456789Z"
+}

@@ -1,0 +1,8 @@
+URL: https://localhost:44320/api/ConductorVehiculo- POST
+
+
+JSON:
+{
+  "matricula": "6378DJL",
+  "dni": "12345678C"
+}

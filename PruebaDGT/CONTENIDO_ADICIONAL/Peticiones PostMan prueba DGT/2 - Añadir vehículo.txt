@@ -1,0 +1,9 @@
+URL: https://localhost:44320/api/Vehiculos - POST
+
+
+JSON:
+{
+  "matricula": "CO-4591-AD",
+  "marca": "Opel",
+  "modelo": "Kadett"
+}

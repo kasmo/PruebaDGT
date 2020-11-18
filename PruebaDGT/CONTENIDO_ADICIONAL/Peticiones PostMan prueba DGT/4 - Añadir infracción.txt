@@ -1,0 +1,8 @@
+URL: https://localhost:44320/api/Infracciones- POST
+
+
+JSON:
+{
+  "descripcion": "Uso del móvil mientras se está circulando",
+  "puntos": "6"
+}

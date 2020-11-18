@@ -1,0 +1,6 @@
+URL: https://localhost:44320/api/InfraccionTotal/ - GET
+
+
+JSON:
+{
+}  

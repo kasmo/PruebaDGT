@@ -1,0 +1,10 @@
+URL: https://localhost:44320/api/Conductores  - POST
+
+
+JSON:
+{
+  "dni": "14725836A",
+  "nombre": "Luis",
+  "apellidos": "García Nieves",
+  "puntos": 15
+}

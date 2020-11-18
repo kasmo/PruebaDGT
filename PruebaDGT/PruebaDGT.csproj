@@ -262,6 +262,14 @@
       <DependentUpon>DGT.mdf</DependentUpon>
     </Content>
     <Content Include="Areas\HelpPage\HelpPage.css" />
+    <Content Include="CONTENIDO_ADICIONAL\Peticiones PostMan prueba DGT\1 - Añadir conductor.txt" />
+    <Content Include="CONTENIDO_ADICIONAL\Peticiones PostMan prueba DGT\2 - Añadir vehículo.txt" />
+    <Content Include="CONTENIDO_ADICIONAL\Peticiones PostMan prueba DGT\3 - Añadir conductor habitual.txt" />
+    <Content Include="CONTENIDO_ADICIONAL\Peticiones PostMan prueba DGT\4 - Añadir infracción.txt" />
+    <Content Include="CONTENIDO_ADICIONAL\Peticiones PostMan prueba DGT\5 - Añadir infraccióna conductor.txt" />
+    <Content Include="CONTENIDO_ADICIONAL\Peticiones PostMan prueba DGT\6 - Consultar Infracciones de conductor .txt" />
+    <Content Include="CONTENIDO_ADICIONAL\Peticiones PostMan prueba DGT\7 - Consultar infracciones más habituales.txt" />
+    <Content Include="CONTENIDO_ADICIONAL\Peticiones PostMan prueba DGT\8 - Consultar conteo puntos de conductor.txt" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -308,6 +316,7 @@
     <Content Include="Models\DGT_Model.edmx.diagram">
       <DependentUpon>DGT_Model.edmx</DependentUpon>
     </Content>
+    <Content Include="CONTENIDO_ADICIONAL\DGT.bak" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />

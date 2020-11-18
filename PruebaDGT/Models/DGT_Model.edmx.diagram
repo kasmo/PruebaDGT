@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ecedd8f82d2d4daaab076bfb652aa501" Name="Diagram1">
+        <EntityTypeShape EntityType="DGTModel.Conductores" Width="1.5" PointX="0.5" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DGTModel.ConductorVehiculo" Width="1.5" PointX="4.375" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DGTModel.Infracciones" Width="1.5" PointX="2.25" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DGTModel.InfraccionVehiculo" Width="1.5" PointX="5.625" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DGTModel.Vehiculos" Width="1.5" PointX="8.875" PointY="2.625" IsExpanded="true" />
+        <AssociationConnector Association="DGTModel.FK_ConductorVehiculo_Conductores" ManuallyRouted="false" />
+        <AssociationConnector Association="DGTModel.FK_InfraccionVehiculo_Conductores" ManuallyRouted="false" />
+        <AssociationConnector Association="DGTModel.FK_ConductorVehiculo_Vehiculos" ManuallyRouted="false" />
+        <AssociationConnector Association="DGTModel.FK_InfraccionVehiculo_Infracciones" ManuallyRouted="false" />
+        <AssociationConnector Association="DGTModel.FK_InfraccionVehiculo_Vehiculos" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
